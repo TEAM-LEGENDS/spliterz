@@ -1,2 +1,2 @@
-# spliterze
+# spliterz
 SOME THING GOOD IS COMMING SOON 
