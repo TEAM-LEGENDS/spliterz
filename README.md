@@ -4,34 +4,14 @@
 etc etc etc 
 
 
-### HTML
+### WEB TECNOLOGY & TAGS WHICH ARE USED 
 
-| Topics Covered | Description |
+| TECHNOLOGY | Description |
 | -------------- | ----------- |
-| Basic | Tags and document structure. |
+| HTML | Structural Tags ,  Metadata Tags |
 | Elements | HTML elements for structuring content, including headings, paragraphs, etc. |
 | Attributes | Utilizing HTML attributes. |
-| Headings | Creating hierarchical headings. |
-| Paragraphs | Structuring text content. |
-| Styles | Inline and internal styling. |
-| Formatting | Semantic formatting elements. |
-| Quotations | Quoting text with `<q>` and `<blockquote>`. |
-| Comments | Adding comments to HTML. |
-| Colors | Specifying colors with hexadecimal and named values. |
-| CSS | Linking external stylesheets. |
-| Links | Creating hyperlinks. |
-| Images | Embedding and styling images. |
-| Tables | Constructing tables with rows and columns. |
-| Lists | Ordered and unordered lists. |
-| Block and Inline | Understanding block and inline elements. |
-| Classes | Applying CSS classes. |
-| ID | Using unique identifiers. |
-| IFrames | Embedding external content. |
-| Forms | Building HTML forms. |
-| Form Attributes | Configuring form attributes. |
-| Form Elements | Input, textarea, select, etc. |
-| Input Types | Text, password, checkbox, radio, etc. |
-| Input Attributes | Attributes for form elements. |
+
 
 
 
