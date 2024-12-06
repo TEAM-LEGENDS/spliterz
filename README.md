@@ -12,7 +12,7 @@ etc etc etc
 | CSS properties | Text and Font ( poppins ) , Box Model , Background , Display and Positioning ,  Flexbox , Grid , Animation and Transitions  |
 | JAVASCRIPT Objects, Methods, and Attributes | Basic Data Types , DOM Manipulation , Events , Array Methods , Objects , Window Methods , Local Storage , Navigation , Math , Loops |
 
-<p>NOTE:- we use internal css and js also .</p>
+<p>NOTE:-WE USE INTERNAL CSS AND JS ALSO .</p>
 
 
 
