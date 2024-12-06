@@ -4,7 +4,7 @@
 etc etc etc 
 
 
-### WEB TECNOLOGY & TAGS WHICH ARE USED 
+### WEB TECNOLOGY & INIT THINGS WHICH ARE USED :-
 
 | TECHNOLOGY | Description |
 | -------------- | ----------- |
