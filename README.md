@@ -1,7 +1,7 @@
 # SPLITERZ
 
  ## OVERVIEW
-etc etc etc 
+Spliterz is a project design to make bill splitting seamless and stress-free whether dining out with friends , organizing events , or managing group expenses , spliterz ensures fairness and simplicity . The goal was create an intuitive , user friendly platform that helps maintain friendships without financial disputes .
 
 
 ### WEB TECNOLOGY USED :-
