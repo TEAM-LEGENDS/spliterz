@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Description</title>
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 100vh;
+      }
+      nav,
+      footer {
+        background-color: #4a0370;
+        color: #fff;
+        padding: 15px;
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+        text-align: center;
+      }
+      main {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        overflow: scroll;
+        overflow-x: hidden;
+        flex-direction: column;
+      }
+      .box {
+        width: 900px;
+        padding: 30px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin: 20px;
+      }
+      .box .box_image {
+        width: 300px;
+        height: 300px;
+        background-color: #4a0370;
+        background-size: cover;
+        background-position: center;
+        border-radius: 10px;
+      }
+      .box .box_description {
+        width: 450px;
+        height: 300px;
+        background-color: #4a0370;
+        border-radius: 10px;
+        padding: 30px;
+        color: #fff;
+        font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+          sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <h1>Description</h1>
+    </nav>
+
+    <main>
+      <img src="download.png" width="500px" alt="" /><span
+        style="font-size: 30px"
+        >⏬</span
+      >
+      <div class="box" onmouseenter="s1()" onmouseleave="s2()">
+        <div
+          class="box_image"
+          style="background-image: url('39cfed557a1e7af9f90617628a0c369a.jpg')"
+          id="img1"
+        ></div>
+        <div class="box_description" id="des1">
+          Our website uses various HTML tags to ensure a professional,
+          accessible, and user-friendly experience. Structural tags create a
+          solid framework, metadata tags enhance SEO, and sectioning tags
+          improve navigation. Text, list, and link tags ensure clarity and
+          seamless browsing, while multimedia tags enrich the content. Form and
+          semantic tags streamline interactions and enhance accessibility.
+          Together, these elements deliver a robust and engaging design.
+        </div>
+      </div>
+      <div class="box" onmouseenter="ss1()" onmouseleave="ss2()">
+        <div class="box_description" id="des2">
+          Our website employs modern CSS techniques to create a visually
+          appealing and responsive design. We use the Poppins font for clean and
+          elegant typography, enhancing readability and aesthetics. The box
+          model and background properties are meticulously styled to provide a
+          cohesive visual structure. Advanced display and positioning techniques
+          ensure precise alignment and layout control. We leverage Flexbox and
+          Grid systems to craft dynamic, responsive layouts that adapt
+          seamlessly across devices. Animations and transitions are incorporated
+          to add smooth interactivity and enhance user engagement, resulting in
+          a polished and professional web experience.
+        </div>
+        <div
+          class="box_image"
+          style="background-image: url('images.jpeg')"
+          id="img2"
+        ></div>
+      </div>
+      <div class="box" onmouseenter="sss1()" onmouseleave="sss2()">
+        <div
+          class="box_image"
+          style="background-image: url('1_LyZcwuLWv2FArOumCxobpA.png')"
+          id="img3"
+        ></div>
+        <div class="box_description" id="des3">
+          Our website's functionality is powered by modern JavaScript techniques
+          to ensure interactivity and dynamic user experiences. We use basic
+          data types and objects to manage and structure data efficiently. DOM
+          manipulation and event handling enable real-time updates and
+          responsive interactions. Array methods streamline data processing,
+          while math operations and loops handle complex calculations and
+          iterative tasks. Window methods enhance user engagement through
+          dynamic UI features, and local storage allows for persistent data
+          management. Additionally, navigation techniques ensure smooth user
+          transitions within the website, delivering a fast and intuitive
+          browsing experience.
+        </div>
+      </div>
+    </main>
+    <footer>
+      <p>
+        © 2024 SPLITERZ |
+        <a href="Description.html" style="color: #45d30d; text-decoration: none"
+          >Description</a
+        >
+      </p>
+    </footer>
+    <script>
+      let s1 = () => {
+        document.getElementById("img1").style.display = "none";
+        document.getElementById("des1").style.width = "840px";
+        document.getElementById("des1").style.transition = "0.5s";
+      };
+      let s2 = () => {
+        document.getElementById("des1").style.transition = "0.5s";
+        document.getElementById("des1").style.width = "450px";
+        document.getElementById("img1").style.display = "block";
+      };
+      let ss1 = () => {
+        document.getElementById("img2").style.display = "none";
+        document.getElementById("des2").style.width = "840px";
+        document.getElementById("des2").style.transition = "0.5s";
+      };
+      let ss2 = () => {
+        document.getElementById("des2").style.transition = "0.5s";
+        document.getElementById("des2").style.width = "450px";
+        document.getElementById("img2").style.display = "block";
+      };
+      let sss1 = () => {
+        document.getElementById("img3").style.display = "none";
+        document.getElementById("des3").style.width = "840px";
+        document.getElementById("des3").style.transition = "0.5s";
+      };
+      let sss2 = () => {
+        document.getElementById("des3").style.transition = "0.5s";
+        document.getElementById("des3").style.width = "450px";
+        document.getElementById("img3").style.display = "block";
+      };
+    </script>
+  </body>
+  <!-- Made by Our Team Member ~ Keval Joshi  -->
+</html>
+
