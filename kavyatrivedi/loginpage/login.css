@@ -64,6 +64,7 @@ input, button {
   width: 90%;
 }
 
+     /* develope by kavya trivedi */
 input[type="text"], input[type="password"] {
   border: 1px solid #ccc;
   border-radius: 4px;
