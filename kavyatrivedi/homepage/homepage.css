@@ -1,4 +1,5 @@
-     /* General Reset kavya trivedi*/
+ <style>
+        /* General Reset kavya trivedi*/
         * {
             margin: 0;
             padding: 0;
@@ -20,5 +21,47 @@
 
      /* develope by kavya trivedi */
         /* Navbar */
-       
+        .navbar {
+            width: 100%;
+            background-color: #59009d;
+            color: #fff;
+            position: relative;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+        }
 
+        .navbar-left,
+        .navbar-right {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .demo{
+            margin-left: 450px;
+        }
+
+        #customer-care {
+            padding: 0.5rem 1rem;
+            font-size: 0.9rem;
+            background-color: #000000;
+            color: #fff;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        #customer-care:hover {
+            background-color: #666;
+            box-shadow: 0 0 10px rgb(255, 255, 255);
+        }
+
+
+
+     /* develope by kavya trivedi */
+        /* between space  kavya trivedi */
+
+      
