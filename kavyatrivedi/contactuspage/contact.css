@@ -1,0 +1,121 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+        /* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+     /* develope by kavya trivedi */
+        body {
+            font-family: "Poppins", serif;
+            font-weight: 100;
+            background-color: #F9F9F9;
+            color: #333;
+            line-height: 1.6;
+        }
+
+     /* develope by kavya trivedi */
+        header {
+            background-color: #540579;
+            color: #fff;
+            padding: 1rem 2rem;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2rem;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.596);
+        }
+
+     /* develope by kavya trivedi */
+        .section-title {
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+            color: #540579;
+            border-bottom: 2px solid #540579;
+            display: inline-block;
+        }
+
+        /* Contact Form */
+       
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            color: #4b4646;
+            font-weight: bold;
+        }
+
+     /* develope by kavya trivedi */
+        form label {
+            font-size: 1rem;
+            margin-bottom: 0.3rem;
+        }
+
+        form input, form textarea {
+            padding: 0.8rem;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        form textarea {
+            resize: none;
+            height: 100px;
+        }
+
+        form button {
+            padding: 0.8rem;
+            font-size: 1rem;
+            background-color: #540579;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        form button:hover {
+            background-color: #720996;
+        }
+
+        /* FAQ Section */
+        .faq {
+            margin-top: 2rem;
+        }
+
+        .faq-item {
+            margin-bottom: 1rem;
+        }
+
+        .faq-item summary {
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            
+        }
+
+     /* develope by kavya trivedi */
+        .faq-item p {
+            margin-top: 0.5rem;
+            font-size: 0.95rem;
+            
+            color: #4b4646;
+            font-weight: bold;
+        }
+ /* General Reset */
+        footer {
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+            background-color: #540579;
+            color: #fff;
+        }
