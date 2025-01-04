@@ -14,6 +14,6 @@ Spliterz is a project design to make bill splitting seamless and stress-free whe
 
 <p>NOTE:-WE USE INTERNAL CSS AND JS ALSO .</p>
 
-
+process is going on 
 
 
