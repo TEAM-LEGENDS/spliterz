@@ -15,6 +15,9 @@ Spliterz is a project design to make bill splitting seamless and stress-free whe
 <p>NOTE:-WE USE INTERNAL CSS AND JS ALSO .</p>
 
 <img src="kavyatrivedi/WhatsApp Image 2024-12-06 at 12.40.44 AM (1).jpeg">
+<img src="kavyatrivedi/WhatsApp Image 2024-12-06 at 12.40.44 AM.jpeg">
+<img src="kavyatrivedi/WhatsApp Image 2024-12-06 at 12.40.45 AM .jpeg">
+*<img src="kavyatrivedi/WhatsApp Image 2024-12-06 at 12.40.46 AM .jpeg">**
 
 process is going on 
 
